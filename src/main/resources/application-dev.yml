@@ -1,0 +1,8 @@
+#server:
+#  port: 8080
+#  servlet:
+#    context-path: /springboot
+
+name: 张三开发
+age: 20
+content: "name:${name},age:${age} 【-dev环境】"

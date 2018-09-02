@@ -1,0 +1,8 @@
+#server:
+#  port: 8080
+#  servlet:
+#    context-path: /springboot
+
+name: 李四生产
+age: 25
+content: "name:${name},age:${age} 【-online环境】"
